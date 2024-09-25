@@ -2,8 +2,9 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=header" />
 </a>
 
-<h1 align="center" style="margin-top=10px">~ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="color:'blue'" height="30px">, I'm BAHRI ILHAME ~</h1>
-<h3 align="center" style="color:'blue'">A Full-Stack Student</h3>
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BAHRI+ILHAME;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+
 
 - 🌱 I’m currently learning **web app frameworks. Join me and let's build cool stuff together! 🚀💻**
 
