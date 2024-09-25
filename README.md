@@ -15,7 +15,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&v
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,git,html,css,js,react,tailwind,bootstrap,vite,nodejs,mongodb,py,php,laravel,mysql,figma,vscode,ps,ai,blender,autocad=12" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=github,git,html,css,js,react,tailwind,bootstrap,vite,nodejs,mongodb,py,php,laravel,mysql,figma,vscode,ps,ai,blender,autocad=12" width="400" height="400" />
 </a>
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ilhame-bahri-8242761b7/" alt="linkedin"><img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgV3rvl_AvDgG9o7p9b_b1sb1ZVChFrvuNQ&usqp=CAU"/></a>
