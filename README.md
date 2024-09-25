@@ -1,8 +1,8 @@
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F2766&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=header" />
 </a>
 
-<h1 align="center">~ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="color:'blue'" height="30px">, I'm BAHRI ILHAME ~</h1>
+<h1 align="center" style="margin-top=10px">~ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="color:'blue'" height="30px">, I'm BAHRI ILHAME ~</h1>
 <h3 align="center" style="color:'blue'">A Full-Stack Student</h3>
 
 - 🌱 I’m currently learning **web app frameworks. Join me and let's build cool stuff together! 🚀💻**
