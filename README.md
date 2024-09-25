@@ -3,7 +3,7 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BAHRI+ILHAME;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=3d85c6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BAHRI+ILHAME;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 
 - 🌱 I’m currently learning **web app frameworks. Join me and let's build cool stuff together! 🚀💻**
