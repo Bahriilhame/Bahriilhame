@@ -1,9 +1,9 @@
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e694be&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3ab5d0&height=120&section=header" />
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=e694be&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BAHRI+ILHAME;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=3ab5d0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BAHRI+ILHAME;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 
 - 🌱 I’m currently learning **web app frameworks. Join me and let's build cool stuff together! 🚀💻**
@@ -26,5 +26,5 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=e694be&size=35&center=true&v
 
 
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e694be&height=120&section=footer" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3ab5d0&height=120&section=footer" />
 </a>
