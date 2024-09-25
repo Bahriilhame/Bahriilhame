@@ -5,7 +5,7 @@
 ![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=3ab5d0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+BAHRI+ILHAME;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
-<img width="25%" align="right" src="https://gifdb.com/images/high/cat-typing-and-working-igyrsmi8wlo2s0gw.webp" />
+<img width="20%" align="right" src="https://gifdb.com/images/high/cat-typing-and-working-igyrsmi8wlo2s0gw.webp" />
 
 
 - 🌱 I’m currently learning **web app frameworks. Join me and let's build cool stuff together! 🚀💻**
