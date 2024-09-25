@@ -1,3 +1,7 @@
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+</a>
+
 <h1 align="center">~ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="color:'blue'" height="30px">, I'm BAHRI ILHAME ~</h1>
 <h3 align="center" style="color:'blue'">A Full-Stack Student</h3>
 
