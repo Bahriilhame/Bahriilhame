@@ -11,9 +11,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3ab5d0&size=35&center=true&v
 
 - 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,react,tailwind,bootstrap,vite,nodejs,mongodb,py,php,laravel,mysql,figma,vscode,ps,ai,blender,autocad=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,react,tailwind,bootstrap,vite,nodejs,mongodb,py,php,laravel,mysql,figma,vscode,ps,ai,blender,autocad=12)](https://skillicons.dev) -->
 
 <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/ilhame-bahri-8242761b7/" target="blank"><img align="center"
