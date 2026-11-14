@@ -6,10 +6,10 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3ab5d0&size=35&center=true&v
 <img width="20%" align="right" src="https://gifdb.com/images/high/cat-typing-and-working-igyrsmi8wlo2s0gw.webp" />
 
 
-- 🌱 I’m currently learning **web app frameworks. Join me and let's build cool stuff together! 🚀💻**
-- 👨‍💻 All of my projects are available at [https://github.com/Bahriilhame?tab=repositories](https://github.com/Bahriilhame?tab=repositories)
-
-- 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
+- 🎓 Master's student in **Artificial Intelligence** — bridging **Data Engineering, Cloud Infrastructure, and Full Stack Development**
+- 🔭 Currently building **automated data pipelines, predictive ML models, and containerized workflows**
+- 👨‍💻 Explore my projects at **[https://github.com/Bahriilhame?tab=repositories](https://github.com/Bahriilhame?tab=repositories)**
+- 🥅 Main Goal: **`Learn`**, **`Collaborate`**, and contribute to impactful projects
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
